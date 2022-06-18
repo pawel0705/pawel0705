@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<img align="left" alt="Statystyki GitHub pawel0705" src="https://github-readme-stats.vercel.app/api?username=pawel0705&show_icons=true&hide_border=true&title_color=000000&icon_color=FFE400&bg_color=ffffff&text_color=000000" />
+
+
 <!--
 **pawel0705/pawel0705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
