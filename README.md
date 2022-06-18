@@ -1,6 +1,6 @@
-# Hej, jestem Paweł - aka [pawel0705] 👋
+### Hej, jestem Paweł - aka [pawel0705] 👋
 
-### Możesz się ze mną skontaktować:
+Możesz się ze mną skontaktować:
 
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/pawe%C5%82-salicki-3885391b6) Linkedin
 
