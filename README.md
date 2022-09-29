@@ -1,11 +1,12 @@
 Hej, jestem Paweł - aka [<a href="https://github.com/pawel0705">pawel0705</a>] 👋
 
-Absolwent Politechniki Śląskiej w Gliwicach, wydziału Automatyki, Elektroniki i Informatyki, na specjalizacji Informatyki. Z wyszktałcenia magister inżynier.
+Absolwent Politechniki Śląskiej w Gliwicach wydziału Automatyki, Elektroniki i Informatyki. Z wyszktałcenia magister inżynier Informatyki.
+Inżynier oprogramowania i grafiki, magister interaktywnej grafiki trójwymiarowej.
 Na GitHubie zamieszczam własne i uczelniane projekty.
 
 Można się ze mną skontaktować przez:
 
-Linedin - link: [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/pawe%C5%82-salicki-3885391b6).
+Linedin: https://www.linkedin.com/in/pawe%C5%82-salicki-3885391b6
 
 Email: pawel.s.ps777@gmail.com
 
