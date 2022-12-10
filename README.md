@@ -1,5 +1,7 @@
 Hej, jestem Paweł - aka [<a href="https://github.com/pawel0705">pawel0705</a>] 👋
 
+Aktualnie młodszy programista .NET
+
 Absolwent Politechniki Śląskiej w Gliwicach wydziału Automatyki, Elektroniki i Informatyki. Z wyszktałcenia magister inżynier Informatyki.
 Inżynier oprogramowania i grafiki, magister interaktywnej grafiki trójwymiarowej.
 Na GitHubie zamieszczam własne i uczelniane projekty.
