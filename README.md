@@ -14,4 +14,4 @@ Email: pawel.s.ps777@gmail.com
 
 
 ![pawel0705's GitHub stats](https://github-readme-stats.vercel.app/api?username=pawel0705&theme=graywhite&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pawel0705&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pawel0705&layout=compact)
