@@ -13,5 +13,5 @@ Linedin: https://www.linkedin.com/in/pawe%C5%82-salicki-3885391b6
 Email: pawel.s.ps777@gmail.com
 
 
-![pawel0705's GitHub stats](https://github-readme-stats.vercel.app/api?username=pawel0705&theme=graywhite)
+![pawel0705's GitHub stats](https://github-readme-stats.vercel.app/api?username=pawel0705&theme=graywhite&hide=contribs,prs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pawel0705&exclude_repo=Studia&layout=compact)
